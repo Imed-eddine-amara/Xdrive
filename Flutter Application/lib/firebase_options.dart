@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAW4y0hYFTQGPfMzK_4RGUHdCIV9SrD5VM',
+    apiKey: 'API KEY',
     appId: '1:574595925159:ios:d0d188d592faa47d02c782',
     messagingSenderId: '574595925159',
     projectId: 'car-control-de6a4',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAW4y0hYFTQGPfMzK_4RGUHdCIV9SrD5VM',
+    apiKey: 'API KEY',
     appId: '1:574595925159:ios:d0d188d592faa47d02c782',
     messagingSenderId: '574595925159',
     projectId: 'car-control-de6a4',
